@@ -1,9 +1,0 @@
-*.suo
-/Python
-/cpp/data
-/cpp/VisualPattern/data
-/cpp/VisualPattern/x64
-/cpp/VisualPattern/Debug
-/cpp/VisualPattern/VisualPattern/Debug
-/cpp/VisualPattern/VisualPattern/x64
-/cpp/VisualPattern/.vs
